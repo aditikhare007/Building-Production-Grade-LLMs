@@ -13,6 +13,22 @@
 
 ## ** Aditi_AI_Dev-Ops_Portfolio ** ##
 
+1. Linux
+2. Dcoker
+3. Kubernetes
+4. Production Deployment
+5. Post Production Testing
+6. Model Monitoring.
+
+## Awesome MLOPS Reousrce ##
+
+### Awesome Machine Learning Models in Production ### 
+https://github.com/EthicalML/awesome-production-machine-learning
+
+** Thank you AI community for visiting my repository - Stay tuned for awesome AI Research Learning Resources **
+** If you find the repository useful please give it a star - Thank you for visting my repository - Happy Learning **
+
+
 
 
 
