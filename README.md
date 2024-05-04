@@ -13,10 +13,6 @@
 
 ## ** Building Production Grade LLMs ** ##
 
-|      **Building Production Grade LLMs**    |     ** SUMMARIES **     |    **RESOURCE LINKS**   |     ** DEPLOYMENT CATEGORY**   | 
-| --------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------------- | -------------------------------------- | 
-| 1. **Quantum Solutions Lab team diving deep into the prospects for quantum speedups with near-term Rydberg atom arrays. ** | **JPMorgan Chase and AWS study the prospects for quantum speedups with near-term Rydberg atom arrays.** | [Amazon Blog](https://aws.amazon.com/blogs/quantum-computing/jpmorgan-chase-and-aws-study-the-prospects-for-quantum-speedups-with-near-term-rydberg-atom-arrays/) |   **QUANTUM AI**   | 
-
 1. Linux
 2. Dcoker
 3. Kubernetes
@@ -24,14 +20,11 @@
 5. Post Production Testing
 6. Model Monitoring.
 
-## Awesome MLOPS Reousrce ##
+|      **Building Production Grade LLMs**    |     ** SUMMARIES **     |    **RESOURCE LINKS**   |     ** DEPLOYMENT CATEGORY**   | 
+| --------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------------- | -------------------------------------- | 
+| 1. **Awesome Machine Learning Models in Production ** | ** Awesome Machine Learning Models in Production.** | [Github](https://github.com/EthicalML/awesome-production-machine-learning/) |   ** MLOPS **   | 
 
-### Awesome Machine Learning Models in Production ### 
-https://github.com/EthicalML/awesome-production-machine-learning
-
-** Thank you AI community for visiting my repository - Stay tuned for awesome AI Research Learning Resources **
-** If you find the repository useful please give it a star - Thank you for visting my repository - Happy Learning **
-
+** Thank you so much for visting my Profile & Happy Learning **
 
 
 
