@@ -1,4 +1,4 @@
-# Building Production Grade LLMs # 
+# Aditi @ Building Production Grade LLMs # 
 
 ## Greetings AI Community 👋 About me 
 
